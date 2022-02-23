@@ -1,0 +1,699 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The just and pious scorpionist, or, The nativity of that thrice excellent man, Sir Matthew Hales, late Lord Chief Justice of England who was born in the year of our Lord 1609, on Wednesday Novemb. the first 7h 8' manè, under the cœlestial scorpion, astrologically consider'd / by John Gadbury.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42844</idno>
+            <idno type="STC">Wing G85</idno>
+            <idno type="STC">ESTC R30397</idno>
+            <idno type="EEBO-CITATION">11305936</idno>
+            <idno type="OCLC">ocm 11305936</idno>
+            <idno type="VID">47399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The just and pious scorpionist, or, The nativity of that thrice excellent man, Sir Matthew Hales, late Lord Chief Justice of England who was born in the year of our Lord 1609, on Wednesday Novemb. the first 7h 8' manè, under the cœlestial scorpion, astrologically consider'd / by John Gadbury.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. for Robert Boulter ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hale, Matthew, --  Sir, 1609-1676.</term>
+               <term>Horoscopes.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47399:1"/>
+            <pb facs="tcp:47399:1" rendition="simple:additions"/>
+            <p>The Juſt and Pious SCORPIONIST: OR THE NATIVITY Of that thrice Excellent Man Sir Matthew Hales, Late Lord Chief Juſtice of <hi>England.</hi>
+            </p>
+            <p>Who was born in the Year of our Lord 1609. on <hi>Wedneſday, Novemb.</hi> the firſt, 7<hi rend="sup">h</hi> 8′ <hi>manè,</hi> Under the Coeleſtial Scorpion: Aſtrologically conſider'd,</p>
+            <p>By <hi>JOHN GADBURY,</hi> Student in Phyſick and Aſtrology.</p>
+            <q>—Sapiens dominabitur Aſtris. Si quis animas &amp; corpora humana fatalibus Stellis credit aſtringi, ſicut Pagani &amp; Priſcillianus dixerunt, Anathema ſit. <bibl>
+                  <hi>Conc. Brac.</hi>
+               </bibl>
+            </q>
+            <p>Licenſed <hi>Feb.</hi> 21. 1676/7. <hi>Ro. L'Eſtrange.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. D.</hi> for <hi>Robert Boulter,</hi> at the Turks-Head in <hi>Cornhil,</hi> over againſt the Royal-Exchange. 1677.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:47399:2" rendition="simple:additions"/>
+            <pb facs="tcp:47399:2"/>
+            <head>To the Honeſt and Intelligent READER.</head>
+            <p>
+               <hi>THat I preſent thee with the following</hi> Geni<g ref="char:EOLhyphen"/>ture, <hi>it is partly to</hi> illuſtrate <hi>the</hi> Horo<g ref="char:EOLhyphen"/>ſcope <hi>thereof; and partly to let the World plainly ſee the</hi> vanity <hi>and</hi> daring <hi>of thoſe ignorant and malicious</hi> Pens, <hi>that are conſtantly darting forth their</hi> Arrows <hi>of</hi> Envy <hi>againſt all Perſons drawing their</hi> breath <hi>under the ſame. As if the Signs of Hea<g ref="char:EOLhyphen"/>ven had an</hi> uncontroulable Influence <hi>to enforce Men to Good or Evil! and that We were by Original appointment left deſtitute of</hi> Power, <hi>and freedom of</hi> Will <hi>to oppoſe their Energie; but born the</hi> Slaves <hi>of</hi> Fate and Deſtiny, <hi>to wear their</hi> Fetters, <hi>and go no further than they permit us a</hi> Chain, <hi>and condemned ſo (by our Stars) to remain and continue, even againſt the very Principles of</hi> Natural Light, Reaſon <hi>and</hi> Religion.</p>
+            <p>
+               <hi>Had I conceiv'd it neceſſary, I could have publiſhed the</hi> Genitures <hi>of ſundry</hi> Princes <hi>and</hi> Potentates, <hi>&amp;c.
+<pb facs="tcp:47399:3"/>born under the Sign</hi> Scorpio, (<hi>beyond what I have done already in my</hi> Obſequium Rationabile) <hi>but this one Inſtance, in the</hi> Birth <hi>of ſo</hi> excellent a Man, <hi>I deem ſufficient;</hi> He <hi>being ſo well known (by his</hi> Vertues) <hi>to the whole Engliſh World; and a</hi> Perſon without exception, <hi>as well in his</hi> Principles <hi>as</hi> Practices, <hi>that a more</hi> apt <hi>and</hi> poſitive <hi>Example cannot be produced. And I hope that no one (once having peruſed this</hi> Nativity) <hi>will be ſo idly impu<g ref="char:EOLhyphen"/>dent hereafter, as to charge</hi> Scorpio <hi>as the moſt vici<g ref="char:EOLhyphen"/>ous Sign in the Heavens.</hi>
+            </p>
+            <p>
+               <hi>If what Divine</hi> Seneca <hi>ſays be true,</hi>—That we abuſe our ſelves when we think Vices are born with us, and that they do not rather ſteal upon us, and ſo come to be ingeſted in us.—<hi>It muſt needs be a grand Error, to make the</hi> Signs <hi>of Heaven, under which we are born, chargeable with our</hi> Crimes <hi>and</hi> Miſdemeanors. <hi>For it is no fair or rational proof, that any Sign is naturally capable of producing vice and ill habits, becauſe it happens ſometimes, that</hi> ill People <hi>are born under it: ſith ſuch an Argument would conclude coſt and dammage againſt the whole</hi> Mazzaroth, <hi>or</hi> Twelve Signs: <hi>there having been</hi> ill Perſons <hi>born under every one of them; as is very eaſie to be evinced.</hi>
+            </p>
+            <pb facs="tcp:47399:3"/>
+            <p>
+               <hi>Nor yet is it any valid or convincing Teſtimony, againſt the worth and vertue of</hi> Scorpio, <hi>that ſome</hi> Ancient <hi>as well as</hi> Modern <hi>Authors have ſpoken ill thereof; ſince</hi> ſome <hi>of both have</hi> argued <hi>friendly for it. And it is not hard to believe, that an Aſtrologer may be byaſſed by Intereſt, as well as a Profeſſor of any other Science: our own Age affording us moſt eminent proofs thereof.</hi>
+            </p>
+            <p>
+               <hi>Would you know how</hi> Scorpio <hi>came to be reputed of ſharp Influence? It was not from any innate venefique Principle therein lodged, but becauſe it was obſerved commonly to bring the firſt</hi> tydings <hi>of the</hi> cold <hi>and</hi> diſmal Winter; <hi>And for this reaſon</hi> Antiquity <hi>hath added a</hi> Sting <hi>to it:</hi> Winter <hi>being the deſtruction of</hi> Vegitables, <hi>and the</hi> death <hi>of all outward</hi> Com<g ref="char:EOLhyphen"/>forts. <hi>But was this, think you, for the</hi> Sign's <hi>ſake, or for the</hi> Seaſons, <hi>in which the</hi> Sun <hi>enters into that</hi> Sign, <hi>that</hi> Scorpio <hi>was thus termed? the ſharp cold Weather, as his</hi> Auſtral <hi>Declination, then notably in<g ref="char:EOLhyphen"/>creaſing: And, that you may be farther convinced, that this</hi> Office <hi>of</hi> firſt <hi>bringing news of the approach<g ref="char:EOLhyphen"/>ing</hi> Winter, <hi>is not entailed upon</hi> Scorpio <hi>by Patent, let it be conſidered,—That</hi> in Auguſt laſt year, <hi>viz.</hi> 1676. the Fall of Leaf began. <hi>And, as I am informed by a Learned Divine of this Nation,</hi> (viz.
+<pb facs="tcp:47399:4"/>
+               <hi>Mr.</hi> Butler, <hi>Author of</hi> Chriſtologia) <hi>about</hi> 30 <hi>Years ſince, it did the ſame: which he attributes to ſome peculiar</hi> Influence <hi>of</hi> Saturn<hi>'s being in</hi> Taurus. <hi>So that you ſee</hi> Virgo <hi>can prove as prejudicial to hu<g ref="char:EOLhyphen"/>mane Felicities, (and to humane Life alſo) as</hi> Scor<g ref="char:EOLhyphen"/>pio, <hi>and yet neither of them may have power of them<g ref="char:EOLhyphen"/>ſelves to enforce theſe things.</hi> The Paſſive Flint never yields any Fire, but when it is ſtruck againſt the Active Steel.</p>
+            <p>
+               <hi>Beſides, ſhould we admit it for an unqueſtionable</hi> Verity, <hi>that</hi> Scorpio <hi>were always deſtin'd to be the</hi> Harbinger <hi>of the</hi> Winter's cold Froſts and Gloo<g ref="char:EOLhyphen"/>mineſs, <hi>&amp;c. (which you ſee it is not) Muſt it there<g ref="char:EOLhyphen"/>fore follow, that it hath a power to</hi> freeze <hi>up the</hi> Spirit <hi>of</hi> Vertue <hi>and</hi> Religion <hi>in us too? This is a</hi> Non-ſequitur <hi>with a witneſs! and every</hi> Apotheca<g ref="char:EOLhyphen"/>ry <hi>can ſhew the abſurdity thereof: In that the moſt</hi> ſtinging Froſt <hi>that the envious</hi> Winter <hi>is able to pro<g ref="char:EOLhyphen"/>duce, cannot</hi> prey upon Spirits or Eſſences. <hi>The</hi> nobler <hi>part of</hi> Man <hi>hath a priviledge above the</hi> Stars; <hi>his</hi> brutiſh <hi>part is only liable to their</hi> Influen<g ref="char:EOLhyphen"/>ces; <hi>and he may ſecure that</hi> Fort <hi>from them alſo, if</hi> Reaſon <hi>do but interpoſe.—For,</hi> Aſtra non neceſſi<g ref="char:EOLhyphen"/>tant, ſed inclinant.</p>
+            <p>
+               <hi>Yet a little further: Let but the unſatisfied in theſe
+<pb facs="tcp:47399:4"/>Matters confult the</hi> Globe, <hi>and there they'l find that the</hi> Coeleſtial Ballance <hi>is placed in</hi> Scorpio; <hi>as if</hi> Juſtice <hi>it ſelf did delight to quarter in that Particular</hi> Dodecatemoria. <hi>And ſhould we eſtimate things ac<g ref="char:EOLhyphen"/>cording to their Emblems, it were very eaſie to prove,— That</hi> Scorpio <hi>doth inherit the</hi> Librarian <hi>Vertues, and</hi> Sagittarius <hi>is veſted with the Vices ſaid to belong to the</hi> Scorpion. <hi>But, this were to play at</hi> Puſh-pin <hi>with</hi> Aſtrology, <hi>and make ſport with the moſt glorious part of the</hi> Creation, <hi>to the great diſhonour of</hi> God <hi>and the</hi> Stars.</p>
+            <p>
+               <hi>But alas!</hi> Aſtrology <hi>foſtereth many</hi> hard-fa<g ref="char:EOLhyphen"/>vour'd-Brats, <hi>which have no</hi> legitimate <hi>relation to the</hi> Truth <hi>of that Noble Art. Direct</hi> Falſhoods, <hi>masked with ſeeming</hi> Verities, <hi>are to be found within her</hi> Pallaces, <hi>viz.</hi> (1.) <hi>As that Children born upon a</hi> New <hi>or</hi> Full Moon, <hi>are not long vital.</hi> (2.) <hi>That</hi> Saturn <hi>on the Aſcendent, is an abſolute Argument of</hi> ſhort Life. (3.) <hi>That</hi> Saturn <hi>with</hi> Spica Virginis <hi>induceth</hi> beggery. (4.) <hi>That</hi> Venus <hi>joyn'd to</hi> Mer<g ref="char:EOLhyphen"/>cury, ſub Radiis Solis, <hi>menaceth</hi> Caſtration. (5.) <hi>That</hi> Perſons <hi>are generally</hi> improſperous <hi>who have their</hi> Moon <hi>void of Courſe.</hi> (6.) <hi>That</hi> Saturn <hi>in the</hi> Mid-heaven <hi>deſtroyeth</hi> Honour, Fame, <hi>&amp;c.— All which I aſſert to be ſo far from being</hi> abſolute
+<pb facs="tcp:47399:5"/>certainties, <hi>that there is ſcarce</hi> one <hi>of them, that (of it ſelf, ſingly)</hi> is ſo: <hi>And, ought therefore to be</hi> exploded, <hi>and baniſhed the</hi> Pale <hi>and</hi> Court <hi>of True</hi> Aſtrology; <hi>together with the common bruited Opinion of</hi> Scorpio<hi>'s being naturally</hi> vicious; Virgo<hi>'s being eſſentially</hi> Barbarous; Mars<hi>'s being joyn'd to</hi> Mer<g ref="char:EOLhyphen"/>cury, <hi>making the Man's name</hi> Matthew.</p>
+            <p>
+               <hi>Neither let any</hi> Ingenious Aſtrologer <hi>think that I hereby intend to leſſen, much leſs to deſtroy</hi> Aſtrology, <hi>but rather to improve it;</hi> becauſe I like well of the Wine of this worthy Science, ſhall I be compel'd to drink the dregs too? <hi>I know that the</hi> Principles <hi>of the</hi> Art <hi>are</hi> Juſt <hi>and</hi> True. <hi>But the</hi> Superſtructures <hi>that have been by</hi> Paraſites, <hi>and other</hi> partial Students <hi>raiſed or built upon them, hath been of ſuch</hi> rotten, defiled, <hi>and</hi> deceit<g ref="char:EOLhyphen"/>ful <hi>Stuff, that all ſober</hi> Artiſts <hi>muſt judg it an excellent</hi> Service <hi>done to the</hi> Truth, <hi>if they were wholly</hi> deſtroyed.</p>
+            <p>
+               <hi>And the Garden of this</hi> chief <hi>and</hi> worthy Science, <hi>once well</hi> weeded, <hi>we might then be in hopes to find</hi> grow<g ref="char:EOLhyphen"/>ing <hi>and</hi> thriving <hi>therein, ſuch an admirable</hi> variety <hi>of Flowers of</hi> Truth <hi>and</hi> Certainty, <hi>that the</hi> Orchard <hi>of no other</hi> Art (<hi>though never ſo happily and neatly</hi> culti<g ref="char:EOLhyphen"/>vated) <hi>can ever be able to boaſt of. For, it is the</hi> Divine Urania! <hi>and,</hi> ſhe <hi>alone! that is the</hi> Miſtris <hi>and</hi> Queen <hi>of all</hi> Natural Sciences.</p>
+            <closer>
+               <dateline>
+                  <hi>Brick-Court</hi> by the <hi>Deans<g ref="char:EOLhyphen"/>yard, Weſtminſter.</hi>
+               </dateline>
+               <signed>John Gadbury.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47399:5"/>
+            <head>The Juſt and Pious SCORPIONIST OR, <hi>The Nativity of that Excellent Man Sir</hi> Matthew Hales, <hi>late Lord Chief Juſtice of</hi> England; <hi>who was born</hi> ☿ Novemb. 1 <hi>d.</hi> 7 <hi>h.</hi> 8 <hi>m. A. M.</hi> 1609. <hi>in the Latitude of</hi> 52 <hi>d. North.</hi>
+            </head>
+            <p>THe Planets places, at the time of this worthy Natives Birth, are as followeth, out of the Ephemerides of <hi>David Origanus,</hi> with Redu<g ref="char:EOLhyphen"/>ction conſidered.</p>
+            <p>
+               <hi>Longitudo Planetarum.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>°</cell>
+                     <cell>′</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☉—18</cell>
+                     <cell>53</cell>
+                     <cell>♏</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>—14</cell>
+                     <cell>26</cell>
+                     <cell>♉</cell>
+                  </row>
+                  <row>
+                     <cell>♌—21</cell>
+                     <cell>24</cell>
+                     <cell>♋</cell>
+                  </row>
+                  <row>
+                     <cell>♄—.06</cell>
+                     <cell>16</cell>
+                     <cell>♒</cell>
+                  </row>
+                  <row>
+                     <cell>♃—18</cell>
+                     <cell>40</cell>
+                     <cell>♊</cell>
+                  </row>
+                  <row>
+                     <cell>♂—24</cell>
+                     <cell>44</cell>
+                     <cell>♎</cell>
+                  </row>
+                  <row>
+                     <cell>♀—06</cell>
+                     <cell>10</cell>
+                     <cell>♎</cell>
+                  </row>
+                  <row>
+                     <cell>☿—07</cell>
+                     <cell>18</cell>
+                     <cell>♐</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Latitudo Planetarum.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>°</cell>
+                     <cell>′</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>—04</cell>
+                     <cell>34</cell>
+                     <cell>Meridional.</cell>
+                  </row>
+                  <row>
+                     <cell>♄—00</cell>
+                     <cell>07</cell>
+                     <cell>Meridional.</cell>
+                  </row>
+                  <row>
+                     <cell>♃—01</cell>
+                     <cell>24</cell>
+                     <cell>Meridional.</cell>
+                  </row>
+                  <row>
+                     <cell>♂—00</cell>
+                     <cell>13</cell>
+                     <cell>Septentrional.</cell>
+                  </row>
+                  <row>
+                     <cell>♀—01</cell>
+                     <cell>54</cell>
+                     <cell>Septentrional.</cell>
+                  </row>
+                  <row>
+                     <cell>☿—02</cell>
+                     <cell>24</cell>
+                     <cell>Meridional.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="2" facs="tcp:47399:6"/>
+            <p>
+               <table>
+                  <head>Antiſcia Planetarum.</head>
+                  <row>
+                     <cell>☉—11</cell>
+                     <cell>07—♒</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>—15</cell>
+                     <cell>34—♌</cell>
+                  </row>
+                  <row>
+                     <cell>♄—23</cell>
+                     <cell>44—♏</cell>
+                  </row>
+                  <row>
+                     <cell>♃—11</cell>
+                     <cell>20—♋</cell>
+                  </row>
+                  <row>
+                     <cell>♂—05</cell>
+                     <cell>16—♓</cell>
+                  </row>
+                  <row>
+                     <cell>♀—23</cell>
+                     <cell>50—♓</cell>
+                  </row>
+                  <row>
+                     <cell>☿—22</cell>
+                     <cell>44—♑</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">°</cell>
+                     <cell role="label">′</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcentio Recta—Solis</hi>
+                     </cell>
+                     <cell>226</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcentio Recta—Temporis Subſtr.</hi>
+                     </cell>
+                     <cell>73</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcentio Recta—Medii Caeli</hi>
+                     </cell>
+                     <cell>153</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcentio Obliqua Horoſcopi</hi>
+                     </cell>
+                     <cell>243</cell>
+                     <cell>05</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For the Cuſp of the Mid-heaven.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">°</cell>
+                     <cell role="label">′</cell>
+                     <cell role="label">♍</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">°</cell>
+                     <cell role="label">′</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proxime Major</hi>
+                     </cell>
+                     <cell>154</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                     <cell>
+                        <hi>Aſcent. R.</hi>
+                     </cell>
+                     <cell>153</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proxime Minor</hi>
+                     </cell>
+                     <cell>153</cell>
+                     <cell>04</cell>
+                     <cell>01</cell>
+                     <cell>
+                        <hi>Arc. Min.</hi>
+                     </cell>
+                     <cell>153</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>57</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If 57′ give 60′; what will 1′ give? Anſwer, 1′. which added to the leſſer degree, leaves the Cuſp of the <hi>Medium Caeli</hi> in the Ecliptick in ♍ 1° 1′.</p>
+            <pb n="3" facs="tcp:47399:6"/>
+            <p>
+               <hi>For the Cuſp of the Horoſcope in the Latitude of Birth.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">°</cell>
+                     <cell role="label">′</cell>
+                     <cell role="label">♏</cell>
+                     <cell> </cell>
+                     <cell role="label">°</cell>
+                     <cell role="label">′</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proxime Major</hi>
+                     </cell>
+                     <cell>243</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Aſcent. O.</hi>
+                     </cell>
+                     <cell>243</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proxime Minor</hi>
+                     </cell>
+                     <cell>241</cell>
+                     <cell>46</cell>
+                     <cell>13</cell>
+                     <cell>
+                        <hi>Arc. Min.</hi>
+                     </cell>
+                     <cell>241</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>26</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If 1° 26′ give 60′, or one Degree, what ſhall 1° 19′? Anſwer, 55′; which added to the leſſer de<g ref="char:EOLhyphen"/>gree, makes the Cuſp of the Horoſcope in the Lati<g ref="char:EOLhyphen"/>tude of Birth, in ♏. 13° 55′ in the Ecliptick.</p>
+            <p>The Cuſps of the Intermediate Angles are obtained truly enough by the Domifying Tables, fitted to the Latitude of Birth.—And—</p>
+            <p>
+               <hi>The Figure of the Nativity follows.</hi>
+            </p>
+            <pb n="4" facs="tcp:47399:7"/>
+            <figure>
+               <p>The Poſition of Heaven at the Birth of that Excellent Man, Sir <hi>Matthew Hales,</hi> late Lord Chief Juſtice of <hi>ENGLAND,</hi> ☿ <hi>November</hi> 1° 7<hi rend="sup">h</hi> 8′. <hi>manè</hi> 1609. <hi>hor.</hi> ♀. ☾ <hi>á</hi> 
+                  <g ref="char:quadrine">□</g> ♄ <hi>ad</hi> 8 ☉.</p>
+               <p>
+                  <hi>Arcturus.</hi> ♀ 6. 10. ♎ 3.</p>
+               <p>♍ 1.1. <hi>Helice.</hi>
+               </p>
+               <p>☊ 21.24. ♋ 17.</p>
+               <p>
+                  <hi>Auriga.</hi> ♃ 18.40. ♊ 9.</p>
+               <p>♎ 24. ♂ 24.44. <hi>Lanx Auſtralis.</hi>
+               </p>
+               <p>♏. 13.55. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18.53. <hi>Cor.</hi> ♏. ☿ 7.18.</p>
+               <p>☾ 14.26. ♉ 13.55.</p>
+               <p>♐ 9.</p>
+               <p>
+                  <hi>Fomabant.</hi> ♓ 1.1.</p>
+               <p>♑ 17. ☋ 21. 24. ♄ 6. 16. ♒</p>
+               <p>♈ 3.</p>
+               <p>♁ 9. 28. ♈ 24.</p>
+            </figure>
+            <div type="part">
+               <head>Judicium Aſtrologicum.</head>
+               <p>It is eminently obſervable, that all the Angles of the Figure are adorned with eminent Conſtellations, <hi>viz.</hi>
+               </p>
+               <p>The Stars of <hi>Helice</hi> are Culminant in the Mid-Heaven.</p>
+               <pb n="5" facs="tcp:47399:7"/>
+               <p>The <hi>South Ballance,</hi> and the <hi>Sun,</hi> ariſing in the Horoſcope.</p>
+               <p>The <hi>Pleiades</hi> ſetting with the <hi>Moon</hi> in the Weſt-Angle.</p>
+               <p>The glorious Star <hi>Fomahant</hi> in the North Angle;</p>
+               <p>A Star (which the Learned <hi>Gardan</hi> ſaith) beſtows Immortality upon Mortal Men.</p>
+               <p>And moſt of the Planets are, not only very power<g ref="char:EOLhyphen"/>ful in the Scheme, but near great Fixed Stars alſo, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Jupiter,</hi> is near the Stars of <hi>Auriga,</hi> and <hi>Orion.</hi>
+               </p>
+               <p>
+                  <hi>Mars,</hi> with the <hi>Virgins Spike,</hi> a glorious Star.</p>
+               <p>
+                  <hi>Venus</hi> is plac'd with the Star <hi>Arcturus.</hi>
+               </p>
+               <p>
+                  <hi>Mercury,</hi> is in Conjunction of the <hi>Scorpions Heart.</hi> It is a glorious Scheme of Heaven, both in the parts thereof, and in the whole: Of which more anon.</p>
+               <p>
+                  <table>
+                     <head>A Table of the Dignities of the Planets in this great Perſons Nativity.</head>
+                     <row>
+                        <cell>☉</cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♄</cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♂</cell>
+                        <cell>is</cell>
+                        <cell>Strong</cell>
+                        <cell>by</cell>
+                        <cell>9</cell>
+                        <cell>Teſtimonies.</cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>☿</cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♁</cell>
+                        <cell> </cell>
+                        <cell>Strong</cell>
+                        <cell> </cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="1" type="part">
+               <pb n="6" facs="tcp:47399:8"/>
+               <head>1. <hi>Of the</hi> Almutens, <hi>or Lords of the</hi> Geniture.</head>
+               <p>From this Collection of <hi>Teſtimonies,</hi> it is apparent, that there are not leſs than four Planets contending and notably ſtriving for the Dignity of <hi>Almuten,</hi> or Dominator over this Learned Natives Inclinations, Manners, Actions, Affections, and Paſſions, <hi>viz. Mercury, Venus, Saturn,</hi> and the <hi>Moon:</hi> And a fift, alſo, will not be debar'd a ſhare in the Dominion there<g ref="char:EOLhyphen"/>of, the <hi>Sun,</hi> I mean. And by theſe five Planets, ge<g ref="char:EOLhyphen"/>nerally, was this excellent Native Influenced all his Life time.</p>
+               <p>Firſt, There was Conſpicuous in him, the Learn<g ref="char:EOLhyphen"/>ing, Dexterity, Apprehenſion, and Ingenuity of <hi>Mercury.</hi> And Men of great Places (ſuch as this Natives were) had need of ſtrong and powerful <hi>Mer<g ref="char:EOLhyphen"/>curies.</hi> Perſons of mean Souls, are not capable of being employed, or fit to be entruſted in Lofty Mat<g ref="char:EOLhyphen"/>ters.</p>
+               <p>This Honourable Native had a <hi>Mercury</hi> fortunate in earneſt, though in <hi>Sagittarius:</hi> [Which tells me, that <hi>Aſtrologers</hi> are Arbitrary, and impoſe upon the World, when they aſſign Imbecillity, or Male-effects to Planets, ſimply, for being in Detriment, and not regarding other aſſiſtances. Beſides, we know it for a certain truth, —That a Man may be as free in the Houſe of another, with whom he hath a fair and no<g ref="char:EOLhyphen"/>ble Reception, as if he were in his own, and had all his Tenants about him, paying to him the greateſt Fealty
+<pb n="7" facs="tcp:47399:8"/>and Homage.] <hi>Mercury</hi> is here, not only near a Kingly fixed Star, and in a glorious Reception of <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> befriended by the kind beams of <hi>Saturn</hi> and <hi>Venus;</hi> which, as <hi>Aſtrologers</hi> tell us, naturally inclines Men to be Juſt, Prudent, Honeſt, and to be of Praiſe<g ref="char:EOLhyphen"/>worthy and Upright preſerving Principles. It ſhews Men propenſe to the ſtudy of the Law, and Theologie, and to all good Literature; and declares ſuch Natives to be eminent purſuers of Juſtice and Goodneſs, and to be remarkably ſerviceable to their Prince, and to the People they ſhall live among. As an afflicted <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> ſhews turbulent, diſturbant ſpirited Perſons, and promoters of Miſchief and Diſcord; ſo an aſſiſted and fortunate <hi>Mercury,</hi> denotes quiet; worthy, and peace<g ref="char:EOLhyphen"/>able Natures, abetters to Amity, Friendſhip, and Concord, and to all generous and laudable Actions among Men; all which was true in this Native.</p>
+               <p>Such a happy <hi>Mercury</hi> doth likewiſe make Excel<g ref="char:EOLhyphen"/>lent Poets, Orators, Philoſophers, <hi>&amp;c.</hi> And, was not this great Native all this? For his Oratory, the World ſufficiently was acquainted herewith, from all his Excellent, Legal Orations, made on the Judg<g ref="char:EOLhyphen"/>ment Seat. For his Philoſophy, let his Learned La<g ref="char:EOLhyphen"/>bours emitted into the World, be given in Evidence. For his admirable acquaintance with the Rules and Meaſures of Poetry; let his many Divine Poems made upon the Birth of our ever Bleſſed Saviour's Birth-Day, be a Teſtimony and Proof, how excellent<g ref="char:EOLhyphen"/>ly well he underſtood that <hi>Seraphique</hi> Science.</p>
+               <p n="2">
+                  <pb n="8" facs="tcp:47399:9"/>2. The <hi>Sun</hi> cannot be excluded from bearing a ſhare conſiderable in the Honour and Dignity of <hi>Al<g ref="char:EOLhyphen"/>muten</hi> in this Nativity; becauſe he is ſo happily po<g ref="char:EOLhyphen"/>ſited in the Aſcendant. —<hi>Sol in Horoſcopo— tribuit Dominium ſuper alios, &amp; Authoritatem, Honores, Dig<g ref="char:EOLhyphen"/>nitateſque â Principibus,</hi> &amp;c. The <hi>Sun,</hi> in any Geni<g ref="char:EOLhyphen"/>ture, being poſited in the Eaſt-Angle, generally gives Honour, Authority and Dignity, from Kings and Princes; and fits Men for Rule and Dominion over the meanner ſort of People. He declares ſuch Natives to be of excellent Prudence and Judgment, Honour, Gravity, Affability, Courteſie, and Cheerfulneſs; and ſignifies them to be great obſervers of their Pro<g ref="char:EOLhyphen"/>miſes, haters of all Sordid, Baſe, and Diſhonourable things. All which Excellencies did ſhine in this our <hi>Pious Scorpioniſt.</hi> The <hi>Sun,</hi> like Truth, <hi>non quaerit angulos,</hi> diſdains to lurk in Corners. And ſuch Per<g ref="char:EOLhyphen"/>ſons that will perform brave and noble things, muſt have the <hi>Sun</hi> for their Friend. For all Actions of Ho<g ref="char:EOLhyphen"/>nour and Gallantry, of publick Worth and Genero<g ref="char:EOLhyphen"/>ſity, do naturally derive from the <hi>Sun.</hi> —If therefore thou findeſt in any Geniture, the Luminaries free and powerful (no matter, though they be in Conjunction or Oppoſition of each other; for that is another frau<g ref="char:EOLhyphen"/>dulent Aphoriſm in <hi>Aſtrologie,</hi> which Charactereth ſuch Configurations, without exception, bad: As I ſhall elſewhere have occaſion to demonſtrate) thou mayſt certainly pronounce that Native, who hath them ſo in his Geniture, to be of a generous and worthy Mind and Spirit, ſcorning mean and ignoble things;
+<pb n="9" facs="tcp:47399:9"/>diſdaining to be the Author of Miſchieſs, or Preju<g ref="char:EOLhyphen"/>dices to any Man: but rather covetous and ambiti<g ref="char:EOLhyphen"/>ous to do all ſorts of People good; the Native is ne<g ref="char:EOLhyphen"/>ver well at eaſe, but when he is ſcattering of Cour<g ref="char:EOLhyphen"/>teſies and Benefits among others. <hi>All which was ad<g ref="char:EOLhyphen"/>mirably verified in this generous Native.</hi>
+               </p>
+               <p>The <hi>Sun</hi> is diſadvantaged himſelf, when he is Ob<g ref="char:EOLhyphen"/>nubilated, and hindred from diſcovering his glorious Rays: But when he is enabled to appear in his Native Claritude, he is Glorious in earneſt. —And what doth he then? —Ask the whole Creation, and not the Rational and Senſitive parts thereof only, whe<g ref="char:EOLhyphen"/>ther he doth not Pride himſelf in being nobly kind and beneficial unto all things?</p>
+               <p>It is true, the <hi>Sun,</hi> as <hi>Seneca</hi> ſays, doth draw his nouriſhment from the Earth: Yet, like a good King, who receives a Tribute or a Tax from his Subjects, is never quiet, until he find a way to divide and ſcatter it among them again.— The <hi>Sun,</hi> or <hi>Solar Perſon,</hi> is too noble and generous minded, to be a Hoarder; he hates Avarice, and bequeaths it to his oppoſite, cloſe-ſiſted <hi>Saturn.</hi> His Treaſury is al<g ref="char:EOLhyphen"/>ways open. He is better pleas'd with the Fork, than the Rake.</p>
+               <p>The <hi>Sun</hi> (ſaith <hi>Haly</hi>) <hi>Eſt Planeta magni Dominii, Potentiae, Nobilitatis,</hi> &amp;c. He is a Planet of great Dominion, Power, and Nobility; and therefore <hi>Aſtro<g ref="char:EOLhyphen"/>logers</hi> do reaſonably ſignifie under him, Kings, Princes, Potentates, and the moſt worthy and honourable of Men. He telleth us further, that the <hi>Sun</hi> is <hi>melior
+<pb n="10" facs="tcp:47399:10"/>&amp; nobilior omnibus aliis Planetis, &amp; in nobilitate cla<g ref="char:EOLhyphen"/>rior:</hi> And he gives this reaſon for his being ſo, in theſe words. —<hi>Quia natura ſua operator in omnibus naturis, &amp; nulla naturarum aliarum operatur in eo.</hi> He is, —<hi>Lumen &amp; Candela Caeli, Gubernator Mundi, Factor Temporum,</hi> &amp;c. The Light and Candle of Heaven, Lord of the World, and Diſtinguiſher of Times and Seaſons. How aptly therefore are the worthieſt of Perſons attributed to the <hi>Sun?</hi> And how happy are they, when ſo particularly ſignified by him? As this our Learned Native was.</p>
+               <p>Well might the famous <hi>Plutarch</hi> term the <hi>Sun, The Image of God;</hi> And, the Learned Author of <hi>Religio Medici,</hi> ſtile him, <hi>The Viſible Deity.</hi> For we experi<g ref="char:EOLhyphen"/>mentally know, his Image upon Earth, (I mean a Man born under him, as was this worthy Judg, in a great Degree) is ever aiming at Noble, Virtuous, and Worthy things. I could produce Inſtances almoſt in<g ref="char:EOLhyphen"/>finite of this truth, were it needful. But ſince it is a Verity nearly as Conſpicuous and Glorious as the <hi>Sun</hi> it ſelf,— That Perſons Born under the <hi>Sun,</hi> (well Dignified, as in this Geniture) or ſuch as have the <hi>Sun</hi> for ſignificator of their Manners, Inclinati<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi> are propenſe naturally to Juſt and Honoura<g ref="char:EOLhyphen"/>ble things, <hi>&amp;c.</hi> I conceive it ſtands in need of no proof.— If any Worthy and Learned <hi>Aſtrologer</hi> think it do, I let him, and the whole World know, that this Reverend and Learned Judg, had the <hi>Sun</hi> ſo to friend at his Birth: And accordingly did ſhine to the
+<pb n="11" facs="tcp:47399:10"/>
+                  <hi>Engliſh</hi> Nation in all the Characters of Honour, Good<g ref="char:EOLhyphen"/>neſs, and Magnanimity.</p>
+               <p n="3">3. The gentle Planet <hi>Venus,</hi> had a ſhare likewiſe in the ſignifications of this honourable <hi>Scorponiſt</hi>'s Actions, Temper, <hi>&amp;c.</hi> And her ſweet and curious Influences were eminently viſible in him.— Not a Perſon frequenting <hi>Weſtminſter Hall,</hi> and obſerving his Method and Demeanor in his diſpenſing of Juſtice, but is able to make <hi>Affidavit</hi> of this excellent Natives ſweetneſs of Temper and Diſpoſition: Of his great Patience and Gentleneſs: Of his readineſs to hear the meaneſt Plaintiff or Defendant that came before him for Relief.</p>
+               <p>In his Place, and on his Seat of Juſtice, a <hi>Pauper</hi> was as much his Care, as the greateſt Man in the Kingdom; he was always ready to help the Helpleſs, and to aſſiſt the Diſtreſſed. His gentleneſs of Hu<g ref="char:EOLhyphen"/>mour did more convince People that were in the wrong, than his Power. And his Patience wrought better Effects upon the Perverſe and Obſtinate, than his Authority, or the Sword he bore for the Puniſh<g ref="char:EOLhyphen"/>ment of Offenders.</p>
+               <p>But, if you would ſee a larger and more am<g ref="char:EOLhyphen"/>ple Copy of his Mind, read his <hi>Contemplations,</hi> thoſe excellent Diſcourſes, which were his private Medita<g ref="char:EOLhyphen"/>tions, wherein he breath'd forth his ſoul to God; with whom a juſt Man dares not diſſemble.— And there you'l find much more of the Gentleneſs, Sweetneſs, and Affability of his Temper, Humour, and Diſpo<g ref="char:EOLhyphen"/>ſition, than I am able to expreſs: Or, it maybe, than
+<pb n="12" facs="tcp:47399:11"/>his <hi>Stars</hi> are fully able to declare.— For, though they diſcover great and illuſtrious Things of him, yet there were greater things in him, than his <hi>Stars</hi> alone could own.</p>
+               <p>And I am of Opinion, that there is ſomwhat which moves the <hi>Stars</hi> in the Generation of Mankind, (eſpe<g ref="char:EOLhyphen"/>cially of Good and Pious Men) of greater Influence than they, <hi>viz. The Spirit of God.</hi> From which Spi<g ref="char:EOLhyphen"/>rit, (and not ſingly from his <hi>Horoſcope,</hi> as the <hi>Fatiſts</hi> teach) Man became a Rational Creature. And, if Reaſon be a ſpark of the Deity, (which <hi>Hermes Triſ<g ref="char:EOLhyphen"/>megiſtus</hi> affirms in his <hi>Divine Pymander:</hi> Nay, the holy Evangeliſt St. <hi>John</hi> ſeemeth to ſay the ſame, <hi>Chap.</hi> 1.) Man hath thereby a better Title to his Do<g ref="char:EOLhyphen"/>minion and Lordſhip over the Creation, than all the <hi>Stars</hi> in the Heavens could afford him; he being <hi>Jure Divino,</hi> a Governour thereof, as Created in the Image of God. And ſo I have done with the ſignifications of the mild and gentle Planet <hi>Venus,</hi> in the Nativity of this our thrice Learned Native.</p>
+               <p n="4">4. Nor were the Influences of <hi>Saturn</hi> well digni<g ref="char:EOLhyphen"/>fied, mean, or inconſpicuous in this great Man's Ge<g ref="char:EOLhyphen"/>niture. For it is very obvious to every diſcerning Artiſt, that he had interſperſed throughout all his Actions and Expreſſions, the great Judgment, Gra<g ref="char:EOLhyphen"/>vity, Wiſdom and Sobriety, which that ſober Planet is Author of: He had an admirable Memory, pro<g ref="char:EOLhyphen"/>found Cogitations, and Conceptions, <hi>&amp;c.</hi> which mix<g ref="char:EOLhyphen"/>ed with the excellent ſignifications of a happy <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> before ſpoken of, gave him ſo great and deſerved
+<pb n="13" facs="tcp:47399:11"/>an eſteem in the Breaſts of the People: Inſomuch, that all Men would willingly commence their Suits in that Court where he ſat Judge: And, many of them who had begun in other Courts, would frequently appeal to him, and remove their Cauſes according<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Good Lawyers coveted to Plead before him, and refer themſelves unto him; as knowing, that where a Wiſe and Learned Man was to direct to the conclu<g ref="char:EOLhyphen"/>ſion of a Difference, their Reaſons and Arguments would never be neglected, but made the beſt uſe of, for a diſcovery of the Truth, and for the honour and ſecurity of Juſtice. But, as Good Men coveted to be Judged by him, ſo Bad Men would flie his <hi>Award,</hi> and rather chuſe to comprimiſe their Differences, than ſtand to his Determination and Judgment. As know<g ref="char:EOLhyphen"/>ing him to be an Encourager of Truth and Juſtice, and an utter Enemy to Fraud and Falſhood; and ſo in no wiſe fit for their turns.</p>
+               <p>Doſt thou think (good Reader) that the great <hi>Trine</hi> of <hi>Saturn</hi> and <hi>Venus,</hi> and the ſame glorious Configuration between <hi>Mars</hi> and <hi>Jupiter,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>turns</hi> platique <hi>Trine</hi> to <hi>Jove,</hi> together, with the for<g ref="char:EOLhyphen"/>tunate <hi>Mercury,</hi> as before; are not of excellent ſig<g ref="char:EOLhyphen"/>nification? They are great and famous Poſitions, I aſſure thee: And declar'd this renowned Native to be bleſſed with a Spirit of Diſcerning; and with ſo great a portion of Judgment, Reaſon, and Courage too, (for a Coward dares not to be vertuous, cannot be ſo) that as he was thereby armed intellectually for
+<pb n="14" facs="tcp:47399:12"/>to diſpenſe Juſtice rightly, and diſcover Truth nim<g ref="char:EOLhyphen"/>bly: So he was provided alſo with an <hi>Amulet</hi> of Praiſe-worthy, and Honeſt-policy, to prevent his be<g ref="char:EOLhyphen"/>ing cheated with a Fallacy. He would ſearch a crafty Cauſe, as a skilful Chirurgeon a dangerous Wound, <hi>viz.</hi> to the bottom, and diſcover the Corruption thereof to the owners ſhame and bluſhing.</p>
+               <p>I could relate ſundry Stories of his Dextrous Saga<g ref="char:EOLhyphen"/>city, did I hold it requiſite or needful; or, yet believe, that I have not ſaid enough to prove,— That this worthy Man had an eminent ſhare in the Influence of <hi>Saturn</hi> (well dignified) in him. To conclude this Point, His <hi>Saturn</hi> is aſſiſted by <hi>Venus,</hi> and his <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> by <hi>Jupiter</hi> and <hi>Venus</hi>— And if the Fortunes in any Geniture, can befriend the ſignificators of Wit and Judgment, then this Honourable Native had a great advantage in both thoſe intellectual Weapons, above moſt Men by his <hi>Stars.</hi>
+               </p>
+               <p n="5">5. Laſtly, We come to the <hi>Moon,</hi> for ſhe hath a ſhare in the Gubernation of this worthy Natives Inclinati<g ref="char:EOLhyphen"/>ons, Actions, <hi>&amp;c.</hi> together with the others mention<g ref="char:EOLhyphen"/>ed. For, ſhe is herein, not only Angular, but in her Exaltation too. <hi>A Planet in his Exaltation,</hi> ſaith Bethem, <hi>is as a Perſon in his Caſtle or ſtrong Hold, and is of admirable Influence.</hi> The <hi>Moon</hi> ſignifies the Commonalty generally: And if <hi>Vox Populi,</hi> be <hi>Vox Dei,</hi> the love and reſpect of the Common Peo<g ref="char:EOLhyphen"/>ple, is to be preferred as eminently worthy: It was from the <hi>Moons</hi> ſtrength and Angularity, as well as the <hi>Suns,</hi> (though I ſay not ſo much as his) that this
+<pb n="15" facs="tcp:47399:12"/>Native had ſo popular a Fame and Eſteem attending him; and ſhe is in this Geniture a Copartner with the Sun in the preſages of Popularity and Authority. The Holy Scripture characters her for a Great Light, made by God in the beginning. And ſuch an one ſhe is, truly, in reſpect of us, though not in her ſelf, as the <hi>Doctrine</hi> of <hi>Aſtronomy</hi> teaches.</p>
+               <p>The Books of Genethliacal Aſtrology, relating to Honour, Fame, and Eſteem, abound with Inſtances of the <hi>Moon,</hi> and her Significations therein.</p>
+               <p>That pious, yet valiant Prince, King <hi>Edward</hi> the Third of <hi>England,</hi> had his <hi>Moon</hi> ſo poſited; and his Geniture, in many reſpects, was like this moſt excel<g ref="char:EOLhyphen"/>lent Natives.</p>
+               <p>I need not quote many Inſtances and Authorities for the proof of a thing ſo commonly and famouſly known.</p>
+               <p>This Nativity is rather fit for to ſtand as a Preſi<g ref="char:EOLhyphen"/>dent, or Touch-ſtone, to prove others by, than to need a proof from any: Albeit, you ſee, that there wants not ſome Genitures of the greateſt among Men to parallel it.</p>
+               <p>I remember to have read ſomewhere, That a Man of great Learning, peruſing the Works of <hi>Virgil,</hi> was pleaſed to ſay,—That if all the Books in the World ſhould be deſtroyed, and <hi>Virgil</hi> only remaining, there would ſome <hi>Veſtigia</hi> of all Sciences be found therein: Certain I am, that if all the Nativities of worthy Men, that are to be found among the Writings of Aſtrologers ſhould be conſumed, and this one of our
+<pb n="16" facs="tcp:47399:13"/>Reverend Natives only remaining, there would be Arguments enough of Vertue and Honor, of Juſtice, Wiſdom, and Piety found therein, as would ſerve to build up the whole <hi>Genethliacal Doctrine</hi> again, ſo far as Vertue and Honor, <hi>&amp;c.</hi> are therein concerned. And ſo I conclude my Diſcourſe of the <hi>Almutens,</hi> or Governors in this <hi>Geniture.</hi> I ſhall be briefer in the other parts of the Scheam.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. <hi>Of the</hi> Hylech <hi>in this Nativity.</hi>
+               </head>
+               <p>From the <hi>Almutens,</hi> we deſcend to a conſideration of the <hi>Hylech,</hi> or giver of Life. And in this great Worthy's Nativity, the <hi>Sun</hi> is the Planet which ſo governs, as being placed in the <hi>Horoſcope,</hi> the prime <hi>Aphetical</hi> Angle of the whole Figure, and the Geni<g ref="char:EOLhyphen"/>ture being neerly Diurnal. And, as the Sun, juſt riſing, was the giver of Life, ſo he did confer on this Excellent Native a ſplendid, clear, and ſpotleſs one.—Such a Life! that nothing but the greateſt Envy dares pretend, in the leaſt meaſure, to tax or blemiſh. And yet this Reverend Native has <hi>Scorpio</hi> for his Horoſcope, and the <hi>Sun</hi> (that glorious Lamp and Light of Honor and true Worth) poſited there<g ref="char:EOLhyphen"/>in.</p>
+               <p>What ſhall we ſay? Either the Sign <hi>Scorpio</hi> is not ſo wicked as ſome People pretend it; or if it be, the Sun by his Horoſcopical preſence in this juſt Man's
+<pb n="17" facs="tcp:47399:13"/>Nativity, was able to diſpel the Fogs and Clouds of Prejudice that are preſumed naturally to attend it. Which, if allowed, it will then follow, that <hi>Scorpio</hi> hath no native Vice belonging to it, (for <hi>Eſſences</hi> cannot be permuted, the <hi>Leopard</hi> and his <hi>Spots</hi> muſt keep together) nor is it ſo bad, but that it can admit of a mitigation, poſſibly a total alteration, from what ſome proclaim it chargeable withal, by an innate right and property.</p>
+               <p>And, if an allay, in any ſence, be permitted as proper to the Sign <hi>Scorpio,</hi> may we not reaſonably in<g ref="char:EOLhyphen"/>dulge the ſame to any other Sign of the <hi>Zodiack?</hi>— And then, who is there that will doubt, but that we may be enabled to find a Native born under the juſt Sign <hi>Libra,</hi> to be as vicious as any to be found brought into the World under the wicked Sign <hi>Scorpio? &amp; è con<g ref="char:EOLhyphen"/>tra.</hi> And if we come once to have it allow'd, that the Signs of the <hi>Zodiack,</hi> as they become the Horo<g ref="char:EOLhyphen"/>ſcopes of Men, may ſubmit in their ſignifications to other more prevalent Cauſes; The Conſequence is unavoidable, and I aver it for a ſplendid and fixed Truth,—That a very vertuous Man may be born un<g ref="char:EOLhyphen"/>der <hi>Scorpio,</hi> and a very vicious Man under <hi>Libra</hi> or <hi>Piſces.</hi>
+               </p>
+               <p>Theſe Circumſtances being conſider'd, (as they muſt be, or elſe <hi>Aſtrologie</hi> is no <hi>Science,</hi> but a meer <hi>Syſtem</hi> of Folly, Idleneſs, and Confuſion) then may that excellent humane Sign of <hi>Aquarius,</hi> produce as wicked, as envious, and ungrateful a Nature, (ſuppoſing the <hi>Moon</hi> in quadrate of <hi>Saturn,</hi> and <hi>Mars</hi> in the ſeventh
+<pb n="18" facs="tcp:47399:14"/>Angle) as any other Sign whatſoever.— Can any <hi>Aſtrologer</hi> give me a juſt Reaſon to the contrary?</p>
+               <p>But this <hi>Theam</hi> is handled more largely in my <hi>Obſe<g ref="char:EOLhyphen"/>quium Rationabile,</hi> or <hi>Defence of Scorpio;</hi> unto which Book I refer my Reader, as being unwilling to enter upon any thing of Controverſie, in this place eſpe<g ref="char:EOLhyphen"/>cially. And thus much ſhall ſerve for the <hi>Hylech.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>Of the</hi> Alchocoden, <hi>or Giver of Years.</hi>
+               </head>
+               <p>The <hi>Alchocoden,</hi> or Giver of the Number of Years, the Native might (according to Natural Cauſes) Live, or Arrive unto, is the vigorous Planet <hi>Mars;</hi> as being not only Diſpoſitor of the <hi>Sun,</hi> who is <hi>Hy<g ref="char:EOLhyphen"/>lech,</hi> but of the <hi>Horoſcope</hi> alſo: So that you ſee, he claims to be Governor of the Years of the Natives Life by a double Prerogative, and therefore muſt have the Honour thereof. And he being ſo conſiderably ſtrong, and near to the <hi>Virgins Spike,</hi> an eminent fixed Star of the firſt Magnitude, of noble Nature and In<g ref="char:EOLhyphen"/>fluence; and alſo in a happy Trine Aſpect of the be<g ref="char:EOLhyphen"/>nign Planet <hi>Jupiter:</hi> All which did very naturally por<g ref="char:EOLhyphen"/>tend this Renowned Native to arrive unto the great Years ſignified by <hi>Mars,</hi> which <hi>Ptolomy</hi> tells us, are Sixty and ſix. And, the <hi>Sun</hi> being in the <hi>Horoſcope,</hi> might reaſonably have extended his Line of Life be<g ref="char:EOLhyphen"/>yond that Number too, had not the <hi>Alchocoden</hi> been in an obſcure Angle, (which is Inimical to Life) and
+<pb n="19" facs="tcp:47399:14"/>
+                  <hi>Saturns</hi> great ſtrength prevented it: For he being ſo powerful, and in Quadrate Aſpect of the <hi>Horoſcope, Minuit vitam Nati,</hi> as <hi>Haly</hi> ſaith; he did abate of the length of this glorious Natives Life.— Neverthe<g ref="char:EOLhyphen"/>leſs, we know he did ſurvive his <hi>Alchocodonean Circle,</hi> and lived ſixty and ſeven Years, and fifty five Days over: and exchanged this Mortal Life for one Immor<g ref="char:EOLhyphen"/>tal, on <hi>December</hi> 26. 1676.</p>
+               <p>And thus much ſhall ſerve to be ſaid of the <hi>Alchoco<g ref="char:EOLhyphen"/>den,</hi> in this juſt <hi>Scorpioniſts</hi> Nativity.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4. <hi>Of the</hi> Anareta, <hi>or</hi> Abſciſſor <hi>of Life.</hi>
+               </head>
+               <p>In the laſt place we ſhall ſpeak a word of the <hi>Ana<g ref="char:EOLhyphen"/>reta,</hi> or Deſtroyer of Life; and that is in this Nati<g ref="char:EOLhyphen"/>vity, the benevolent Planet <hi>Jupiter</hi> [good Planets you ſee, may be deſigned ſometimes, to the Executi<g ref="char:EOLhyphen"/>on of ill Offices:] as being both Locally and Virtually in the 8th Houſe, <hi>viz.</hi> The Angle repreſenting Death, and in reception of <hi>Mercury,</hi> Lord thereof; whoſe Poſition there, doth ever render the Death to be Natu<g ref="char:EOLhyphen"/>ral, unleſs there happen ſome great Conſpiracy among the <hi>Stars</hi> to ſignifie the contrary; as there doth not in this Geniture. Poſſibly, his Poſition there, was one great Reaſon, why the Death of this worthy <hi>Heroe</hi> of Juſtice and Piety, is ſo much lamented and bewail<g ref="char:EOLhyphen"/>ed in this Sarcaſtical, Obdurate, and (I was about to ſay) Profligate Age. Which ſpirit of ſorrow ap<g ref="char:EOLhyphen"/>pearing
+<pb n="20" facs="tcp:47399:15"/>ſo remarkably among us, helps to prove,— That there is yet remaining in this (once Valorous and Religious) Nation, the Seeds of true Conſci<g ref="char:EOLhyphen"/>ence and Goodneſs, in that we can be really moved (<hi>Non obſtante</hi> the natural Vitiouſneſs and Obſtinacy of the Times) to Mourn in earneſt, when ſo great and ſo good a Man is taken from among us, though to Heaven.</p>
+               <p>I will not pretend to ſo exact an acquaintance with all the Actions and Paſſions of this excellent Natives Life, as to ſuit every one of them to its proper Dire<g ref="char:EOLhyphen"/>ction, or meetings of the <hi>Stars.</hi> Let it ſatisfie, that I have publiſhed this glorious Nativity, neerly, as I received it from the honoured Hand of my Learned Friend, <hi>John Aubery</hi> Eſq; a worthy Member of the Royal Society: And, that it accordeth with the <hi>Ani<g ref="char:EOLhyphen"/>modar</hi> of <hi>Ptolomy;</hi> and moſt happily and truly re<g ref="char:EOLhyphen"/>preſents the publique Honours, Actions, and End of this thrice excellent <hi>Scorpioniſt; Of whom the World was not worthy.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>5. <hi>Something touching the Revolutions,</hi> &amp;c. <hi>pre<g ref="char:EOLhyphen"/>ceding this great Mans Death.</hi>
+               </head>
+               <p>To Conſpire with this worthy Natives Death, <hi>Aſtro<g ref="char:EOLhyphen"/>logically</hi> the <hi>Horoſcope</hi> was directed <hi>ad Quadratum Ve<g ref="char:EOLhyphen"/>neris, in dignitatibus Saturni;</hi> and ſhe in Aſpect of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> radically, and Lady or Governeſs (in a great
+<pb n="21" facs="tcp:47399:15"/>meaſure) of the Seventh, and Fourth Angles. The ſeventh Angle is oppoſite to the Angle ſignifying Life, and the fourth Angle repreſents the Grave, or End of all things.— But this is not a Direction of force ſufficient to ſignifie ſo great an Accident, may ſome ſay? No! Aſſure thy ſelf but it is, when the <hi>Alcho<g ref="char:EOLhyphen"/>codonean Circle</hi> is finiſhed, and the Direction chance to happen in the terms of an Interficient Planet, as this did.— Beſides, the <hi>Luminaries</hi> were, by direction, in Interficient, or Unfortunate Terms alſo.</p>
+               <p>And if thou thinkeſt that this was not enough to play the <hi>Atropos,</hi> and cut off this great worthys Life; Obſerve what follows in the Revolution, and grand Tranſits and Aſpects of the <hi>Stars</hi> that concomitated the ſaid Directions, and then thou wilt be convinced that there were Stellary Cauſes, ſufficient, to intro<g ref="char:EOLhyphen"/>duce the Death of this excellent Native.</p>
+               <figure>
+                  <p>
+                     <hi>Schema Revolutionis, aut Sol ad Radicem,</hi> 1676. October 31d. 11<hi rend="sup">h</hi> 36′. manè. <hi>Sub Lat.</hi> 52d. <g ref="char:Moon">☽</g> â ⚹ <g ref="char:Moonround">❍</g> ad <g ref="char:trine">△</g> ♄.</p>
+                  <p>☿ 10. ♏ 29</p>
+                  <p>♏ 13. ☉ 18. 53.</p>
+                  <p>♎ 16.</p>
+                  <p>♐ 15. ☊ 15.</p>
+                  <p>♀ <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. ☊ 22.</p>
+                  <p>♑ 7. ♃ 18. <g ref="char:Moon">☽</g> 22.</p>
+                  <p>♂ 15. ♋ 7.</p>
+                  <p>♒ 22. ♁ 10. ♓</p>
+                  <p>♄ 23. ♉ 13.</p>
+                  <p>☋ 15. ♊ 15.</p>
+                  <p>♈ 16.</p>
+                  <p>♉ 29.</p>
+               </figure>
+               <pb n="22" facs="tcp:47399:16"/>
+               <p>In this Revolutional Figure, the place of the Di<g ref="char:EOLhyphen"/>rection aſcends the <hi>Horoſcope,</hi> and the <hi>Moon</hi> is in Con<g ref="char:EOLhyphen"/>junction of <hi>Jupiter,</hi> the Planet <hi>Anaretical,</hi> and both of them in Oppoſition of <hi>Mars,</hi> Lord of the Aſcen<g ref="char:EOLhyphen"/>dent at Birth. Arguments very prejudicial unto Life. But above all, the Oppoſition of the <hi>Sun</hi> and <hi>Saturn</hi> in this Figure, is remarkable; for as much as it is An<g ref="char:EOLhyphen"/>gular both in reſpect of the Radical and Revolutional Scheams; together with <hi>Saturns</hi> obviating the Radi<g ref="char:EOLhyphen"/>cal places of both <hi>Luminaries.</hi> Theſe are formidable Arguments in earneſt, and in an <hi>Aſtrological</hi> ſenſe, did plainly point out the Death of this glorious Na<g ref="char:EOLhyphen"/>tive.</p>
+               <p>Nor may it be forgotten that the two great <hi>Solar</hi> Eclipſes, <hi>Anno</hi> 1676, which but little preceded this excellent Perſons Death, were of eminent ſignifica<g ref="char:EOLhyphen"/>tion therein. The one of them falling in the eighth Houſe, upon the very place of the <hi>Anaretical</hi> Planet, and the other in Oppoſition unto it.</p>
+               <p>Before a great and juſt Man Dies, the <hi>Sun</hi> himſelf, is wont to put on <hi>Sables.</hi> He did ſo before the Death of that good King, and glorious Martyr, King <hi>Charles</hi> the Firſt. And before the Death of many more he did ſo, that I could mention; but Hiſtory is ſo full there<g ref="char:EOLhyphen"/>of, it needeth not.</p>
+               <p>Neither were the two grand Configurations of the <hi>Sun</hi> and <hi>Saturn</hi> in that very Year of a ſlight tendency or import, or fit to be neglected, <hi>viz.</hi> the Conjunction of the <hi>Sun</hi> and <hi>Saturn,</hi> in fifteen Degrees of <hi>Taurus,</hi> upon <hi>April</hi> the 24th Day, on the Radical place of
+<pb n="23" facs="tcp:47399:16"/>this great Natives <hi>Moon.</hi> And (2.) The <hi>Quadrate</hi> of the ſame Planets from <hi>Taurus</hi> and <hi>Leo,</hi> on <hi>Auguſt</hi> the 7th Day; they happening in the prime Angles of the Nativity.</p>
+               <p>And, to add a little more weight hereunto, let the <hi>Lunar</hi> Revolution, immediately preceding this juſt Man's Death, be but conſulted: And therein you will find the ſame Poſition of Heaven, as in that of the <hi>Solar</hi> Revolution; and <hi>Jupiter,</hi> the <hi>Anaretical</hi> Planet, aſcending in the <hi>Horoſcope</hi> thereof. Which Argument, together with the former mentioned, did naturally con<g ref="char:EOLhyphen"/>cur (in the Judgment of <hi>Aſtrologers</hi>) to the Extin<g ref="char:EOLhyphen"/>guiſhing the glorious Light and Life, of this great and glorious Lamp of Learning, Honour, true Piety, Worth and Juſtice.</p>
+               <figure>
+                  <p>The Moons return to her Radical place ☿ <hi>December</hi> the 6<hi>th</hi> 9h. 40′. <hi>manè.</hi> 1676. Sub Latit. 52 d. <g ref="char:Moon">☽</g> 
+                     <hi>á</hi> ☍ ♀ <hi>ad</hi> ☌ ♄</p>
+                  <p>☊ 13. ♐ <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>☿ 5. ♏ 22.</p>
+                  <p>♀ 11. ♎ 29.</p>
+                  <p>♐ 22. ☉ 25.</p>
+                  <p>♍ 9.</p>
+                  <p>♑ 17. ♃ 26.</p>
+                  <p>♋ 17.</p>
+                  <p>♓ 9.</p>
+                  <p>♂ 10. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ♊ 22.</p>
+                  <p>♈ 29. ♄ 20. <g ref="char:Moon">☽</g> 14. 26</p>
+                  <p>♉ 22. ♁ 6.</p>
+                  <p>♊ 7. ☋ 13.</p>
+               </figure>
+               <p>It is eminently obſervable, that, as the <hi>Moon</hi> did apply to the <hi>Sun,</hi> or, was in Configuration with him,
+<pb n="24" facs="tcp:47399:17" rendition="simple:additions"/>in the Figure of the Nativity, ſo ſhe applied to the Body or Beams of <hi>Saturn,</hi> in the <hi>Luminarian</hi> Revo<g ref="char:EOLhyphen"/>lutions preceding this great Natives Expiration. The <hi>Sun</hi> and <hi>Saturn</hi> are of oppoſite Natures and Influ<g ref="char:EOLhyphen"/>ences: This preſerves Life, that promotes Death.</p>
+            </div>
+            <epigraph>
+               <bibl>Origanus de Effectib. Stellarum, <hi>p.</hi> 522.</bibl>
+               <q>
+                  <hi>Pertinet ad fidem &amp; diligentiam</hi> Aſtrologorum, <hi>om<g ref="char:EOLhyphen"/>nium quantum fieri poteſt Principum, Ducum, Comi<g ref="char:EOLhyphen"/>tum, Nobilium, Conſulum, praecipuorum quoque</hi> Theo<g ref="char:EOLhyphen"/>logorum, <hi>Epiſcoporum, Conſiliariorum, Medicorum Genituras inquirere:—Non enim magna ſolummodo laus eſt, priori conſulta experientia de ipſis in ſpecie aliquid dicere: Sed publica quoque fata ex eorum ſalute pen<g ref="char:EOLhyphen"/>dent.</hi>—</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47399:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
